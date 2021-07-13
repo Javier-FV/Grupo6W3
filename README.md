@@ -44,21 +44,31 @@ En la reunión realizada con el equipo se determino el siguiente diagrama de cla
 
 ### Definiendo los objetivos del proyecto
 - [Documento de word](Sprint1-Definiendolosobjetivosdelproyecto.docx)
-1. La descripción de la asignación de roles en el Sprint. Es importante que se asignen los roles, ya que la metodología se basa en la capacidad de trabajo de equipos auto-organizados y es necesario establecer funciones y roles, con el fin de definir tareas para cada persona en el proyecto.
-  - **Product Owner:** Profesor.
-  - **Scrum Master:** Rosana Rodriguez (Líder y enlace con el product owner)
-  - **Scrum Team:** Melissa Paternina, Yuri Bernal, Javier Villamizar, David Vega (equipo de desarrollo)
+
+1. La descripción de la asignación de roles en el Sprint. Es importante que se asignen los roles, ya que la metodología se basa en la capacidad de trabajo de equipos auto-       organizados y es necesario establecer funciones y roles, con el fin de definir tareas para cada persona en el proyecto.
+
+    - **Product Owner:** Profesor.
+    - **Scrum Master:** Rosana Rodriguez (Líder y enlace con el product owner)
+    - **Scrum Team:** Melissa Paternina, Yuri Bernal, Javier Villamizar, David Vega (equipo de desarrollo)
+
 2. Describir los objetivos y misión del Proyecto a realizar. Es importante que se pueda tener claro el ámbito y las restricciones. 
-###### Objetivo General:
-- Realizar sitio web para la venta y difusión de música de artistas independientes.
-###### Objetivos Especificos:
--	Crear la Base de Datos y establecer la respectiva conexión con ella.
--	Desarrollar la lógica del sitio web y conjunto de acciones que permiten la comunicación con el servidor.
--	Desplegar la capa de presentación del sitio web.
-###### Justificacion
-Prestar un servicio de reproducción de música con el objetivo de ser un medio de difusión para artistas emergentes e independientes a través de un desarrollo web.
-###### Mision
-Difundir la música de artistas independientes de todos los géneros a través de la implementación de un desarrollo web.
+
+    ###### Objetivo General:
+
+      - Realizar sitio web para la venta y difusión de música de artistas independientes.
+
+    ###### Objetivos Especificos:
+      -	Crear la Base de Datos y establecer la respectiva conexión con ella.
+      -	Desarrollar la lógica del sitio web y conjunto de acciones que permiten la comunicación con el servidor.
+      -	Desplegar la capa de presentación del sitio web.
+    ###### Justificacion
+
+    Prestar un servicio de reproducción de música con el objetivo de ser un medio de difusión para artistas emergentes e independientes a través de un desarrollo web.
+
+    ###### Mision
+
+    Difundir la música de artistas independientes de todos los géneros a través de la implementación de un desarrollo web.
+
 3. Presentar el Product Backlog. El Product Backlog es una lista que recoge todo lo que necesita el producto para satisfacer las necesidades del cliente.
 
 |    <br>DESCRIPCIÓN                                                                |    <br>ESTIMACIÓN (DÍAS)    |    <br>VALOR (COP)    |    <br>ORDEN    |    <br>ESTADO          |
