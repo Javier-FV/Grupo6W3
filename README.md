@@ -1,4 +1,4 @@
-# Grupo6W3
+# Grupo6 W3
 Este repositorio se crea con la finalidad de plasmar los temas tratados en las reuniones de equipo y dejar evidencia del trabajo en conjunto.
 ## Table de Contenidos
 <!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
