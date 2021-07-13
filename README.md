@@ -43,7 +43,9 @@ En la reunión realizada con el equipo se determino el siguiente diagrama de cla
 ![alt text](https://github.com/Javier-FV/Grupo6W3/blob/main/UML.png?raw=true)
 
 ### Definiendo los objetivos del proyecto
-- [Documento de word](Sprint1-Definiendolosobjetivosdelproyecto.docx)
+Si desea visualizar el documento en Github seleccione el formato PDF, si selecciona el documento en word tendrá que descargarlo para abrirlo.
+- [Documento en PDF](Sprint1-Definiendolosobjetivosdelproyecto.docx)
+- [Documento en word](Sprint1-Definiendolosobjetivosdelproyecto.docx)
 
 1. La descripción de la asignación de roles en el Sprint. Es importante que se asignen los roles, ya que la metodología se basa en la capacidad de trabajo de equipos auto-       organizados y es necesario establecer funciones y roles, con el fin de definir tareas para cada persona en el proyecto.
 
