@@ -86,3 +86,5 @@ Si desea visualizar el documento en Github seleccione el formato PDF, si selecci
 |    <br>Implementación de estilos del sitio   web                                  |    <br>1                    |    <br>160000         |    <br>3        |    <br>Sin comenzar    |
 |    <br>Prueba de módulos dispuestos en el   sitio web                             |    <br>3                    |    <br>480000         |    <br>7        |    <br>Sin comenzar    |
 |    <br>Puesta en marcha                                                           |    <br>1                    |    <br>160000         |    <br>8        |    <br>Sin comenzar    |
+## Evidencia Reunión
+![alt text](https://github.com/Javier-FV/Grupo6W3/blob/main/evidencia1.png?raw=true)
